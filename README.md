@@ -22,6 +22,7 @@ Bu depo, SAMİB üyesi **Optimak STU** firmasının **Otomatik Üstten Baskılı
 | `05-Lab-4-Secure-Remote-Access` | Secure Architecture | EP 02 Network + EP 06 Remote Access | ✅ Tamamlandı |
 | `06-Lab-5-SBOM-CVE-Patch` | Vulnerability Decision | EP 09 SBOM · EP 10 CVE · EP 11 Patch | ✅ Tamamlandı |
 | `07-Lab-6-CRA-Incident` | Incident Workflow | EP 13 Incident Response | ✅ Tamamlandı |
+| `08-Lab-7-AI-Safety-Challenge` | AI Safety Challenge | EP 03 + EP 15 AI Fail-Safe Decision | ✅ Tamamlandı |
 
 ---
 
