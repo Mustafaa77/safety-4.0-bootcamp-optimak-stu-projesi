@@ -20,8 +20,8 @@ Bu depo, SAMİB üyesi **Optimak STU** firmasının **Otomatik Üstten Baskılı
 | `03-Lab-2-IEC62443-Zone-Conduit` | Zone / Conduit Diagram | EP 05 Zone & Conduit | ✅ Tamamlandı |
 | `04-Lab-3-Threat-Risk-Matrix` | Risk Register | EP 04 Cyber Risk Assessment | ✅ Tamamlandı |
 | `05-Lab-4-Secure-Remote-Access` | Secure Architecture | EP 02 Network + EP 06 Remote Access | ✅ Tamamlandı |
-| `06-Lab-5-SBOM-CVE-Patch` | Vulnerability Decision | EP 09 SBOM · EP 10 CVE · EP 11 Patch | ✅ Planlandı |
-| `07-Lab-6-CRA-Incident` | Incident Workflow | EP 13 Incident Response | ✅ Planlandı |
+| `06-Lab-5-SBOM-CVE-Patch` | Vulnerability Decision | EP 09 SBOM · EP 10 CVE · EP 11 Patch | ✅ Tamamlandı |
+| `07-Lab-6-CRA-Incident` | Incident Workflow | EP 13 Incident Response | ✅ Tamamlandı |
 
 ---
 
